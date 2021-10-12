@@ -19,7 +19,7 @@ lxml==4.2.5
 maproxy==0.0.12
 matplotlib==3.0.1
 numpy==1.15.2
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 Pillow==5.3.0
 progress==1.4
 py==1.6.0
