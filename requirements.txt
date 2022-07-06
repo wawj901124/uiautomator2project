@@ -15,7 +15,7 @@ humanize==0.5.1
 idna==2.7
 imageio==2.4.1
 kiwisolver==1.0.1
-lxml==4.2.5
+lxml==4.9.1
 maproxy==0.0.12
 matplotlib==3.0.1
 numpy==1.15.2
